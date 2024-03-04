@@ -1,8 +1,27 @@
-# React + Vite
+# Portfolio in react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio Created in React
+Using `projectList.json` file where all data about projects are saved.
+By updating this file and adding more projects, you are able to dynamically generate project cards
 
-Currently, two official plugins are available:
+## Instalation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm i
+```
+
+## Usage
+
+```bash
+npm run dev
+```
+
+## Deployed Site
+
+[Deployed Site](https://gatis-jansons-portfolio.netlify.app/)
+
+## Resources
+
+[Vite](https://vitejs.dev/)
+
+[React Router](https://reactrouter.com/en/main)
