@@ -3,7 +3,7 @@ import "./style.css";
 
 function Footer() {
   return (
-    <div className="footer">
+    <div className="footer position-bottom ">
       <div className="container">
         <span>(c) All Rights Reserved </span>
         <div>

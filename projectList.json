@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Team Profile Generator",
+    "link": "https://github.com/RexActor/Team-Profile-Generator",
+
+    "image": "team-profile-generator.jpg",
+    "description": "JavaScript application for creating Team HTML file."
+  },
+  {
+    "id": 2,
+    "name": "Readme Generator",
+    "link": "https://github.com/RexActor/Readme-Generator",
+    "image": "readme-generator.jpg",
+    "description": "Simple Readme.md File generator with Js. Application generates file based on user inputs"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "link": "https://github.com/RexActor/Weather-Dashboard",
+    "image": "weather-dashboard.jpg",
+    "description": "Page created in Js. Using OpenWeather API you are able to get weather based on location search"
+  },
+  {
+    "id": 4,
+    "name": "Personal-Planner",
+    "link": "https://github.com/RexActor/Personal-Planner",
+    "image": "personal-planner.jpg",
+    "description": "Personal Planner created in JavaScript You are able to simply add/edit your daily tasks by saving them in local storage"
+  },
+  {
+    "id": 5,
+    "name": "Quiz in JavaScript",
+    "link": "https://github.com/RexActor/Javascript-Quiz",
+    "image": "javascript-quiz.jpg",
+    "description": "Want to test your knowledge in JavaScript? Take a Quiz."
+  },
+  {
+    "id": 6,
+    "name": "Password-Generator",
+    "link": "https://github.com/RexActor/Password-Generator",
+    "image": "password-generator.jpg",
+    "description": "Password generator in JavaScript"
+  }
+]
