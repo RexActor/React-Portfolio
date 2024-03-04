@@ -1,0 +1,28 @@
+.navbar {
+    background-color: rgb(14, 1, 27);
+    position: absolute;
+
+
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+
+
+
+}
+
+.navbar-brand {
+    font-size: 50px !important;
+    color: white !important;
+
+}
+
+.nav-item {
+    background-color: rgb(14, 1, 27);
+    font-size: 30px;
+}

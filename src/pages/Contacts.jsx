@@ -1,4 +1,4 @@
 function Contacts() {
-  return <div>This is contact page</div>;
+  return <main className="container">This is contact page</main>;
 }
 export default Contacts;
